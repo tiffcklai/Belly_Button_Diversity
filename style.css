@@ -3,7 +3,7 @@ body {
     color: #111111;
 }
 .jumbotron {
-    background-image: url("../images/header.jpg");
+    background-image: url("header.jpg");
     background-size: 100% 100%;   
     text-align:center;
     color:black
