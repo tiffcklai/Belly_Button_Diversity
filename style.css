@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to bottom, #3366ff 0%, #ffffff 100%);
+    color: #111111;
+}
+.jumbotron {
+    background-image: url("/images/header.jpg");
+    background-size: 100% 100%;   
+    text-align:center;
+    color:rgb(246, 247, 248)
+}
+.div-1{
+    background-color: #ABBAEA;
+}
